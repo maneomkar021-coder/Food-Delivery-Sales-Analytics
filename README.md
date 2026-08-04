@@ -71,6 +71,7 @@ Plotly
 **Dashboard / Visualizations**
 
 **1. Monthly Sales Trend**
+
 Purpose
 Understand revenue fluctuations across months.
 
@@ -93,6 +94,7 @@ Weekend sales appear slightly higher than weekdays, suggesting stronger customer
 
 
 3.Veg vs Non-Veg Revenue
+
 Purpose
 Compare revenue contribution by product category.
 
@@ -103,6 +105,7 @@ Marketing and inventory planning can prioritize high-performing categories.
 ![Dashboard Preview](https://github.com/maneomkar021-coder/Food-Delivery-Sales-Analytics/blob/main/charts/chart3.png)
 
 4. Revenue by State
+   
 Purpose
 Compare regional sales performance.
 
@@ -115,6 +118,7 @@ Lower-performing states may require targeted promotions.
 
 
 5.Top Cities by Sales
+
 Purpose
 Identify top-performing cities.
 
