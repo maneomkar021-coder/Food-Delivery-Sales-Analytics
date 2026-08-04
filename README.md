@@ -72,10 +72,10 @@ Plotly
 
 **1. Monthly Sales Trend**
 
-Purpose
+**Purpose:-**
 Understand revenue fluctuations across months.
 
-Business Insight
+**Business Insight:-**
 Revenue decreased in February.
 Sales recovered steadily through later months, with another peak toward August.
 
@@ -84,10 +84,10 @@ Sales recovered steadily through later months, with another peak toward August.
 
 2.Daily Sales Trend
 
-Purpose
+**Purpose:-**
 Identify which weekdays generate higher revenue.
 
-Business Insight
+**Business Insight:-**
 Weekend sales appear slightly higher than weekdays, suggesting stronger customer demand during weekends.
 
 ![Dashboard Preview](https://github.com/maneomkar021-coder/Food-Delivery-Sales-Analytics/blob/main/charts/chart2.png)
@@ -95,10 +95,10 @@ Weekend sales appear slightly higher than weekdays, suggesting stronger customer
 
 3.Veg vs Non-Veg Revenue
 
-Purpose
+**Purpose:-**
 Compare revenue contribution by product category.
 
-Business Insight
+**Business Insight:-**
 Vegetarian items contribute 64% of revenue, while non-vegetarian items contribute 36%.
 Marketing and inventory planning can prioritize high-performing categories.
 
@@ -106,10 +106,10 @@ Marketing and inventory planning can prioritize high-performing categories.
 
 4. Revenue by State
    
-Purpose
+**Purpose:-**
 Compare regional sales performance.
 
-Business Insight
+**Business Insight:-**
 Karnataka leads revenue generation.
 Telangana and Delhi are also major contributors.
 Lower-performing states may require targeted promotions.
@@ -119,10 +119,10 @@ Lower-performing states may require targeted promotions.
 
 5.Top Cities by Sales
 
-Purpose
+**Purpose:-**
 Identify top-performing cities.
 
-Business Insight
+**Business Insight:-**
 Bengaluru generates the highest revenue.
 Lucknow, Hyderabad, and Mumbai follow.
 These cities could be prioritized for expansion or premium offerings.
@@ -130,6 +130,7 @@ These cities could be prioritized for expansion or premium offerings.
 ![Dashboard Preview](https://github.com/maneomkar021-coder/Food-Delivery-Sales-Analytics/blob/main/charts/chart5.png)
 
 **Recommendations**
+
 • Increase promotional campaigns in low-performing states.
 • Strengthen inventory planning for vegetarian menu items.
 • Allocate more delivery partners during weekends.
@@ -137,6 +138,7 @@ These cities could be prioritized for expansion or premium offerings.
 • Investigate reasons behind lower February sales.
 
 **Future Scope**
+
 • Customer Segmentation
 • Customer Lifetime Value
 • Customer Churn Analysis
