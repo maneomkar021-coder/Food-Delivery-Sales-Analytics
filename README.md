@@ -1,7 +1,7 @@
 
 # # Food Delivery Sales Analytics
 
-Project Overview
+**Project Overview**
 
 A Python Exploratory Data Analysis (EDA) project that analyzes food delivery sales data to understand customer purchasing behavior, revenue distribution, product preferences and geographical sales trends.
 Business Problem
@@ -21,7 +21,7 @@ Business management wants to understand:
 • How do monthly sales fluctuate?
 
 
-Objectives
+**Objectives**
 
 • Understand customer purchasing behaviour
 
@@ -37,14 +37,16 @@ Objectives
 
 **Dataset**
 
-Column	Description
-Order ID	Unique Order
-Date	Order Date
-City	Delivery City
-State	Customer State
-Category	Veg / Non-Veg
-Price	Revenue
-Quantity	Ordered Quantity
+| Column   | Description      |
+| -------- | ---------------- |
+| Order ID | Unique Order     |
+| Date     | Order Date       |
+| City     | Delivery City    |
+| State    | Customer State   |
+| Category | Veg / Non-Veg    |
+| Price    | Revenue          |
+| Quantity | Ordered Quantity |
+
 
 
 **Workflow**
