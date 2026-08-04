@@ -78,6 +78,9 @@ Business Insight
 Revenue decreased in February.
 Sales recovered steadily through later months, with another peak toward August.
 
+![Dashboard Preview](https://github.com/maneomkar021-coder/Food-Delivery-Sales-Analytics/blob/main/charts/chart1.png)
+
+
 2.Daily Sales Trend
 
 Purpose
@@ -86,6 +89,9 @@ Identify which weekdays generate higher revenue.
 Business Insight
 Weekend sales appear slightly higher than weekdays, suggesting stronger customer demand during weekends.
 
+![Dashboard Preview](https://github.com/maneomkar021-coder/Food-Delivery-Sales-Analytics/blob/main/charts/chart2.png)
+
+
 3.Veg vs Non-Veg Revenue
 Purpose
 Compare revenue contribution by product category.
@@ -93,6 +99,8 @@ Compare revenue contribution by product category.
 Business Insight
 Vegetarian items contribute 64% of revenue, while non-vegetarian items contribute 36%.
 Marketing and inventory planning can prioritize high-performing categories.
+
+![Dashboard Preview](https://github.com/maneomkar021-coder/Food-Delivery-Sales-Analytics/blob/main/charts/chart3.png)
 
 4. Revenue by State
 Purpose
@@ -103,6 +111,9 @@ Karnataka leads revenue generation.
 Telangana and Delhi are also major contributors.
 Lower-performing states may require targeted promotions.
 
+![Dashboard Preview](https://github.com/maneomkar021-coder/Food-Delivery-Sales-Analytics/blob/main/charts/chart4.png)
+
+
 5.Top Cities by Sales
 Purpose
 Identify top-performing cities.
@@ -111,6 +122,8 @@ Business Insight
 Bengaluru generates the highest revenue.
 Lucknow, Hyderabad, and Mumbai follow.
 These cities could be prioritized for expansion or premium offerings.
+
+![Dashboard Preview](https://github.com/maneomkar021-coder/Food-Delivery-Sales-Analytics/blob/main/charts/chart5.png)
 
 **Recommendations**
 • Increase promotional campaigns in low-performing states.
